@@ -111,4 +111,6 @@
     global.humps = humps;
   }
 
+  module.exports = humps;
+
 })(this);
